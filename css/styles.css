@@ -1,0 +1,77 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.panel1 {
+  flex-basis: 25em;
+  background: blue;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel2 {
+  flex-basis: 15em;
+  background: beige;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel3 {
+  flex-basis: 15em;
+  background: green;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel4 {
+  flex-basis: 15em;
+  background: pink;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel5 {
+  flex-basis: 15em;
+  background:blue;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel6 {
+  flex-basis: 15em;
+  background:beige;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel7 {
+  flex-basis: 25em;
+  background: blue;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel8 {
+  flex-basis: 15em;
+  background: pink;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
+
+.panel9 {
+  flex-basis: 70em;
+  background: blue;
+  height: 15em;
+  margin: 0.5em;
+  flex-grow: 1;
+}
